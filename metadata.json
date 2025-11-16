@@ -1,0 +1,8 @@
+{
+  "name": "Gemini Image Environment Changer V1.92",
+  "description": "Upload an image of a room and use a text prompt to transform its environment into anything you can imagine, like a desert, a jungle, or a futuristic robot room, using Gemini 2.5 Flash Image.",
+  "requestFramePermissions": [
+    "camera",
+    "display-capture"
+  ]
+}
